@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SieglindeManeskin
-- 👀 I’m interested in Linux Lite 
-- 🌱 I’m currently learning Command Line in Linux
-- 💞️ I’m looking to collaborate on videogames for Linux Lite
+- 👀 I'm interested in Ambiental Science
+- 🌱 I’m currently learning Visual Studio
+- 💞️ I’m looking to collaborate on Global Change
 - 📫 How to reach me blueclearskied@pm.me
 
 <!---
